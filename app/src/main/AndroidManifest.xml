@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.login">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="  "
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Login">
+        <activity
+            android:name=".adminmatches"
+            android:exported="false"
+            android:label="MATCHES"/>
+        <activity
+            android:name=".adminteam"
+            android:exported="false"
+            android:label="TEAMS"/>
+        <activity
+            android:name=".adminmenu"
+            android:exported="false"
+            android:label="MAIN MENU"/>
+        <activity
+            android:name=".welcome"
+            android:exported="false"
+            />
+        <activity
+            android:name=".bestof"
+            android:exported="false"
+            android:label="GAMEWEEK'S BEST 5"/>
+
+        <activity
+            android:name=".statistics"
+            android:exported="false" />
+        <activity
+            android:name=".standings"
+            android:exported="false" />
+        <activity
+            android:name=".finishedmatches"
+            android:exported="false" />
+        <activity
+            android:name=".schedule"
+            android:exported="false" />
+        <activity
+            android:name=".teamsnames"
+            android:exported="false"
+            android:label="TEAMS" />
+        <activity
+            android:name=".livematches"
+            android:exported="false"
+            android:label="MATCHES" />
+        <activity
+            android:name=".teams"
+            android:exported="false"
+            android:label="TEAMS" />
+        <activity
+            android:name=".guestmenu"
+            android:exported="false"
+            android:label="MAIN MENU" />
+        <activity
+            android:name=".guest"
+            android:exported="false"
+            android:label="MAIN MENU" />
+        <activity
+            android:name=".admin"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

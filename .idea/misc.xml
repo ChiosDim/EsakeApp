@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/login/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2025" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/login/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2025" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/login/app/src/main/res/layout/activity_admin.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/login/app/src/main/res/layout/activity_adminmatches.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/login/app/src/main/res/layout/activity_adminmenu.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/login/app/src/main/res/layout/activity_adminteam.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/login/app/src/main/res/layout/activity_back.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/login/app/src/main/res/layout/activity_bestof.xml" value="0.33" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/login/app/src/main/res/layout/activity_finishedmatches.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/login/app/src/main/res/layout/activity_guest.xml" value="0.29375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/login/app/src/main/res/layout/activity_help.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/login/app/src/main/res/layout/activity_livematches.xml" value="0.29375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/login/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/login/app/src/main/res/layout/activity_menu.xml" value="0.29375" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/login/app/src/main/res/layout/activity_standings.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/login/app/src/main/res/layout/activity_statistics.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/login/app/src/main/res/layout/activity_teams.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/login/app/src/main/res/layout/activity_teamsnames.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/login/app/src/main/res/layout/activity_welcome.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/vaso/AndroidStudioProjects/login/app/src/main/res/layout/activity_admin.xml" value="0.22" />
+        <entry key="..\:/Users/vaso/AndroidStudioProjects/login/app/src/main/res/layout/activity_adminmatches.xml" value="0.2740036231884058" />
+        <entry key="..\:/Users/vaso/AndroidStudioProjects/login/app/src/main/res/layout/activity_adminmenu.xml" value="0.26358695652173914" />
+        <entry key="..\:/Users/vaso/AndroidStudioProjects/login/app/src/main/res/layout/activity_adminteam.xml" value="0.2740036231884058" />
+        <entry key="..\:/Users/vaso/AndroidStudioProjects/login/app/src/main/res/layout/activity_back.xml" value="0.22" />
+        <entry key="..\:/Users/vaso/AndroidStudioProjects/login/app/src/main/res/layout/activity_bestof.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/vaso/AndroidStudioProjects/login/app/src/main/res/layout/activity_guest.xml" value="0.2" />
+        <entry key="..\:/Users/vaso/AndroidStudioProjects/login/app/src/main/res/layout/activity_help.xml" value="0.29030797101449274" />
+        <entry key="..\:/Users/vaso/AndroidStudioProjects/login/app/src/main/res/layout/activity_livematches.xml" value="0.23369565217391305" />
+        <entry key="..\:/Users/vaso/AndroidStudioProjects/login/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/vaso/AndroidStudioProjects/login/app/src/main/res/layout/activity_menu.xml" value="0.22" />
+        <entry key="..\:/Users/vaso/AndroidStudioProjects/login/app/src/main/res/layout/activity_teams.xml" value="0.33" />
+        <entry key="..\:/Users/vaso/AndroidStudioProjects/login/app/src/main/res/layout/activity_teamsnames.xml" value="0.23369565217391305" />
+        <entry key="..\:/Users/vaso/AndroidStudioProjects/login/app/src/main/res/layout/activity_welcome.xml" value="0.2740036231884058" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

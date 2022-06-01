@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EsakeLive</string>
+
+    <string-array name="gameweeks_array">
+        <item>SELECT GAMEWEEK </item>
+        <item>GAMEWEEK 1</item>
+        <item>GAMEWEEK 2</item>
+        <item>GAMEWEEK 3</item>
+
+    </string-array>
+</resources>
